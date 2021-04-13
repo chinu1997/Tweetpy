@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4fdeb09-5730-493b-914a-2e5de2af3d18" name="Default Changelist" comment="" />
+    <list default="true" id="d4fdeb09-5730-493b-914a-2e5de2af3d18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1qX2PrZfCvdwjxy5XgcSbYqpf5O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -153,6 +159,8 @@
       <workItem from="1617211613761" duration="645000" />
       <workItem from="1617349460743" duration="7597000" />
       <workItem from="1617385591286" duration="4251000" />
+      <workItem from="1617456319795" duration="670000" />
+      <workItem from="1617899506669" duration="5127000" />
     </task>
     <servers />
   </component>
@@ -176,10 +184,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="233" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617390161189" />
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1617385607100">
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1617899603745">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1617385607100" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1617899603745" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Tweetpy$test_clean_text_test.coverage" NAME="test_clean_text_test Coverage Results" MODIFIED="1617387547722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
