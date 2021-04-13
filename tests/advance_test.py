@@ -6,5 +6,5 @@ def test_Clean_text():
     tweet_clean=src.TweetClean()
     text_df['text']=text_df['text'].apply(tweet_clean.Clean_text)
     text_df['text'] = text_df['text'].apply(tweet_clean.Standardize_text)
-    assert text_df['text']
+    return text_df['text']
 print(test_Clean_text())
